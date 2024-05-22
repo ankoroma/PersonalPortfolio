@@ -1,0 +1,61 @@
+{
+    "classes": [
+        {
+            "id": 141,
+            "title": "CSCI 141 | Computational Problem Solving",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?"
+        },
+        {
+            "id": 435,
+            "title": "CSCI 435 | Software Engineering",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?"
+        },
+        {
+            "id": 421,
+            "title": "CSCI 421 | Database Systems",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?"
+        },
+        {
+            "id": 241,
+            "title": "CSCI 301 | Data Structures",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?"
+        },
+        {
+            "id": 303,
+            "title": "CSCI 303 | Software Engineering",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?"
+        }
+    ],
+    "projects": {
+        "MarketApp": {
+            "title": "H2H | College-Based Market App Application",
+            "desc": "Lead developer in a team currently creating a mobile application for college students to sell and purchase products from other students. Developed using React Native as the frontend framework and Django (REST API) as backend framework to create a full-stack application",
+            "tech": ["React Native", "Django (w/ REST API)"],
+            "lang": ["Javascript", "Python"]
+        },
+        "Rationales": {
+            "title": "Rationales Visualization Tool",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?",
+            "tech": ["React.js", "Flask", "Material UI"],
+            "lang": ["Javascript", "Python"]
+        },
+        "Maze": {
+            "title": "Android Maze Game",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?",
+            "tech": ["Android Studio", "Eclipse"],
+            "lang": ["Java"]
+        },
+        "WeatherApp": {
+            "title": "Weather Forecast Website",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?",
+            "lang": ["HTML/CSS", "Javascript"]
+        },
+        "EditableResume": {
+            "title": "Editable Resume Builder",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?",
+            "tech": ["React.js"],
+            "lang": ["Javascript", "CSS"]
+
+        }
+    }
+}
